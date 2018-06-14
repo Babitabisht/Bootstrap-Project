@@ -1,0 +1,22 @@
+
+
+#home-section{
+background: url(time.jpg) no-repeat center  center  fixed;
+background-size: cover;
+min-height: 950px;
+  background-attachment: fixed;
+}
+
+.dark-overlay{
+
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  to:0;
+  left: 0;
+  width: 100%;
+  min-height: 950px;
+}
+.home-inner{
+
+  padding-top: 150px;
+}
